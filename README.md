@@ -25,11 +25,17 @@ This project aims to improve predictive analysis for better healthcare outcomes.
 <h3>#Future Scopes</h3>
 
 <br>
--Andriod app will be made<br>
--Analyze the old data to predict the future risk of any disease<br>
--The patient's tab get updates automatically everytime they visits any hospital<br>
--The data of the patients will be protected and secured .<br>
+
 
 ---
+
+- Android Application Development: A dedicated Android app will be developed to provide seamless access to patient health data.  <br>
+- Predictive Health Analysis: Historical patient data will be analyzed to predict future risks of diseases, enabling proactive healthcare management. <br> 
+- Automated Patient Record Updates: The patient's records will be updated automatically upon each hospital visit, ensuring real-time data availability.<br>  
+- Data Security & Privacy: All patient data will be securely stored and protected, maintaining confidentiality and compliance with healthcare standards.  <br>
+
+---
+
+
 
 
